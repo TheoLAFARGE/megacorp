@@ -1,1 +1,1 @@
-SCANNING
+# TODO: write the script
